@@ -10,11 +10,17 @@ Project Name: Animal Shelter Pro
 > List the essential features that will be included in MVP.  
 
 -Staff login with ID and password.
+
 -Showcase pets with breed, name, and descriptions.
+
 -Search with filters and categories.
+
 -Visual dashboards for inventory and pets.
+
 -Simple, easy-to-use buttons.
+
 -Add or remove pets and inventory data.
+
 -Upload and manage adoption applications.
 
 ***
@@ -26,16 +32,23 @@ Project Name: Animal Shelter Pro
 **Staff Members:**
 
 **Log In:** Enter their ID and password to access the app.
+
 **View Dashboard:** Check daily tasks, pending applications, and inventory status.
+
 **Manage Pets:** Add, edit, or remove pet details as needed.
+
 **Process Applications:** Review adoption applications and update their status.
+
 **Update Inventory:** Manage inventory items like pet food and supplies.
 
 # Adopters:
 
 **Browse Pets:** Use filters like breed and size to search for pets.
+
 **View Pet Details:** Click on pets to see their information.
+
 **Submit Application:** Fill out an adoption form and submit it.
+
 **Receive Updates:** Get notifications on the status of their adoption application.
 
 
@@ -46,9 +59,13 @@ Project Name: Animal Shelter Pro
 > Break down each key feature into user stories.
 
 **Login Page**: "As a staff member, I need a clear login to see my tasks and know who is handling each adoption."
+
 **Search Bar**: "I want to search quickly using keywords to find what I need without browsing everything."
+
 **Pet Showcase**: "I want to see which pets are available with details like breed and description so I can decide easily."
+
 **Add/Remove Pets**: "I need to update pet availability in real-time to avoid confusion or double adoption."
+
 
 ## Risks and Mitigations
 
