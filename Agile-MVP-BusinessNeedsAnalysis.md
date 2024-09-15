@@ -9,7 +9,7 @@ Project Name: Animal Shelter Pro
 
 > Clearly articulate the problem or pain-point your product aims to solve.      	
 
-Managing the various difficulties of running a pet shelter. 
+Pet shelters face challenges in efficiently managing adoption applications, tracking inventory, and coordinating staff tasks.
 
 ## Vision and Objectives
 
