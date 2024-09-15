@@ -1,6 +1,7 @@
 # Interview Questions
+**Remember each team member needs to commit 3 questions & an individual interview.**
 
-(1)Remember each team member needs to commit 3 questions & an individual interview.
+(1)How do you prioritize which pets to promote or feature for adoption?
 
 (2)What is your current system for managing adoptions?  
 
