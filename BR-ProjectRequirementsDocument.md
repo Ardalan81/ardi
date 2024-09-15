@@ -51,6 +51,7 @@ The shelter has access to devices like computers, tablets, or smartphones.
 ### Scope
 
 Essential Features: User login, pet listings, adoption management, inventory tracking, notifications.
+
 Additional Requirements: Easy navigation, secure data handling, mobile compatibility.
 
 ***
@@ -58,6 +59,7 @@ Additional Requirements: Easy navigation, secure data handling, mobile compatibi
 ### Performance
 
 The app should handle up to 100 users at once without lag.
+
 Actions like searching for pets or processing applications should take less than 2 seconds.
 
 ***
